@@ -22,7 +22,7 @@ sudo apt install ffmpeg
 
 # Clone the MusicBot
 cd ~
-git clone https://github.com/Just-Some-Bots/MusicBot.git MusicBot -b master
+git clone https://github.com/AleanaA/MusicBot.git MusicBot -b master
 cd MusicBot
 sudo python3 -m pip install --upgrade -r requirements.txt
 ```
