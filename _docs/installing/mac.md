@@ -23,7 +23,7 @@ brew install libsodium
 
 # Clone the MusicBot
 cd desktop
-git clone https://github.com/Just-Some-Bots/MusicBot.git MusicBot -b master 
+git clone https://github.com/AleanaA/MusicBot.git MusicBot -b master 
 
 # Install Python dependencies
 cd MusicBot
