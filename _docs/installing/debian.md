@@ -22,7 +22,7 @@ sudo apt-get install python3.5 python3-pip -y
 
 # Clone the MusicBot to your home directory
 cd ~
-git clone https://github.com/Just-Some-Bots/MusicBot.git MusicBot -b master
+git clone https://github.com/AleanaA/MusicBot.git MusicBot -b master
 cd MusicBot
 
 # Install dependencies
