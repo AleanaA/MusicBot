@@ -1,7 +1,7 @@
 ---
 title: Arch
 category: Installing the bot
-order: 7
+order: 6
 ---
 
 <img class="doc-img" src="{{ site.baseurl }}/images/arch.png" alt="centos" style="width: 75px; float: right;"/>
