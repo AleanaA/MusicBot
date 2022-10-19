@@ -10,6 +10,8 @@ MusicBot has limited integration with Spotify, in that it automatically converts
 
 ## Enabling Spotify integration
 
+> By default, MusicBot will attempt to get an anonymous key for use with the Spotify API. The following steps are only necessary should the bot fail to get an anonymous key or you get rate limited by Spotify for any reason.
+
 1. First, create a new [Spotify application](https://beta.developer.spotify.com/dashboard/applications). You will be asked to login to a Spotify account. Do so, and then click 'Create an app' at the top right and then 'No' when asked if you're developing a commercial integration. Name it what you like, and give it a short description. Tick all three boxes, then press 'Create'.
 2. Finally, [configure]({{ site.baseurl }}/using/configuration) your bot with your Spotify client ID and client secret, both obtainable on your Spotify application page. Restart the bot, and provided your details are okay, you will be able to use Spotify URIs with the `!play` command.
 
